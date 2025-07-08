@@ -9,8 +9,8 @@
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
   [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
   
-  <p><strong>A comprehensive, responsive HTML template for organic food e-commerce websites</strong></p>
-  <p>Perfect for organic stores, farmers markets, healthy food retailers, and eco-friendly businesses</p>
+  <p><strong>A comprehensive, responsive HTML template for organic food e-commerce websites with local shops integration</strong></p>
+  <p>Perfect for organic stores, farmers markets, local shops, healthy food retailers, and eco-friendly businesses</p>
 </div>
 
 ## ✨ Features
