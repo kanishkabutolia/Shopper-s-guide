@@ -25,6 +25,7 @@
 - **Checkout Process** - Streamlined checkout with multiple payment options
 - **User Authentication** - Login/Register system with user profiles
 - **Wishlist Feature** - Save favorite products for later
+- **Local Shops Integration** - Support for local stores and neighborhood markets
 
 ### 📦 **Product Management**
 - **Product Categories** - Organized sections for fruits, vegetables, berries, organic foods
