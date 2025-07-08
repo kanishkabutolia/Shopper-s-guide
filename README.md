@@ -166,6 +166,7 @@ shopper-s-guide/
 ### Perfect For:
 - **Organic Food Stores** - Showcase organic products beautifully
 - **Farmers Markets** - Connect local farmers with customers
+- **Local Shops & Markets** - Support neighborhood stores and community businesses
 - **Health Food Retailers** - Promote healthy eating lifestyle
 - **Eco-friendly Businesses** - Sustainable and green product sales
 - **Grocery Stores** - Full-featured online grocery shopping
