@@ -213,10 +213,6 @@ We welcome contributions! Here's how you can help:
 4. **Push** to the branch (`git push origin feature/amazing-feature`)
 5. **Open** a Pull Request
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Bootstrap Team** - For the amazing CSS framework
@@ -224,16 +220,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Font Awesome** - For the beautiful icons
 - **Google Fonts** - For the typography
 - **Slick Carousel** - For the product sliders
-
-## 📞 Support
-
-If you have any questions or need help with customization:
-
-- 📧 Email: shopper's@company.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/shoppers-guide/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/your-username/shoppers-guide/discussions)
-
----
 
 <div align="center">
   <p>Made with ❤️ for organic food enthusiasts</p>
