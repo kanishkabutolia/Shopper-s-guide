@@ -177,8 +177,10 @@ shopper-s-guide/
 - Health and wellness
 - Sustainable living
 - Farm-to-table businesses
+- Local shops and markets
 - Specialty food stores
 - Nutritional supplements
+- Community-based commerce
 
 ## 🔧 Browser Support
 
